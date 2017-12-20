@@ -1,0 +1,23 @@
+Author: Steve Strongheart:
+Date:  20171219
+
+BlackJack.py is a simple python console game.
+It requires python 2 - probably 2.4 or higher but was written and tested in python 2.7
+
+Linux and *nix users with python located at /usr/bin/python need simply enter command
+./BlackJack.py
+
+or 
+python BlackJack.py
+
+or  from a python console
+import BlackJack
+will start the program.
+
+otherwise try
+<path to python>/python BlackJack.py 
+
+This was a UDEMY Milestone project 
+
+
+
